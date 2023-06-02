@@ -1,0 +1,8 @@
+a = input('tasteaza prima cifra: ')
+b = input('tasteaza a doua cifra: ')
+print("Valorile initiale:")
+print("a =", a)
+print("b =", b)
+print("Valorile dupa schimbare:")
+print("a =", b)
+print("b =", a)
